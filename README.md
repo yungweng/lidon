@@ -5,7 +5,7 @@ Close your MacBook lid and keep it running, on battery, without an external disp
 ## Install
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/yungweng/lidon/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/yonnock/lidon/main/install.sh | sh
 ```
 
 Works with fish, bash and zsh.
